@@ -31,6 +31,7 @@ npm init
 ## Step 2: Install Dependencies
 ```shell
 npm install react-email @react-email/button @react-email/html -E
+npm install @react-email/components
 ```
 ## Step 3: Add Scripts
 ```shell
