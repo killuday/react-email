@@ -23,22 +23,20 @@ Follow these steps to set up a brand-new folder with React Email:
 
 Create a new folder called `react-email-starter` and initialize a new npm project:
 
-
+```shell
 mkdir react-email-starter
 cd react-email-starter  
 npm init
-
+```
 ## Step 2: Install Dependencies
-
+```shell
 npm install react-email @react-email/button @react-email/html -E
-
+```
 ## Step 3: Add Scripts
 ```shell
-{
   "scripts": {
     "dev": "email dev --dir src/emails"
   }
-}
 ```
 ## Step 4: Include Email Template
 ```bash
