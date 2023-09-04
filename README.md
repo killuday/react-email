@@ -60,6 +60,8 @@ export default function Email() {
 }
 ```
 ## Step 5: Run Locally
+```shell
 npm run dev
+```
 ## Step 6: See Changes Live
 Visit http://localhost:3000 in your web browser, and you can edit the index.tsx file to see the changes live.
