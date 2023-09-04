@@ -33,11 +33,13 @@ npm init
 npm install react-email @react-email/button @react-email/html -E
 
 ## Step 3: Add Scripts
+```shell
 {
   "scripts": {
     "dev": "email dev --dir src/emails"
   }
 }
+```
 ## Step 4: Include Email Template
 ```bash
 import { Button } from '@react-email/button';
