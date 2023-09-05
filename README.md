@@ -10,6 +10,7 @@
 📤 Manage sent items and drafts.
 🔒 Secure and user-friendly authentication system.
 📦 Easily customizable and extendable.
+💡 Bonus: Make it responsive effortlessly with Tailwind CSS!
 
 ## Installation
 
@@ -30,7 +31,6 @@ npm init
 ```
 ## Step 2: Install Dependencies
 ```shell
-npm install react-email @react-email/button @react-email/html -E
 npm install @react-email/components
 ```
 ## Step 3: Add Scripts
