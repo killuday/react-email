@@ -4,13 +4,13 @@
 
 ## Features
 
-✨ Create stylish and responsive email interfaces.
-📥 Support for receiving and displaying emails.
-💌 Compose and send emails with ease.
-📤 Manage sent items and drafts.
-🔒 Secure and user-friendly authentication system.
-📦 Easily customizable and extendable.
-💡 Bonus: Make it responsive effortlessly with Tailwind CSS!
+#### ✨ Create stylish and responsive email interfaces.
+#### 📥 Support for receiving and displaying emails.
+#### 💌 Compose and send emails with ease.
+#### 📤 Manage sent items and drafts.
+#### 🔒 Secure and user-friendly authentication system.
+#### 📦 Easily customizable and extendable.
+#### 💡 Bonus: Make it responsive effortlessly with Tailwind CSS!
 
 ## Installation
 
