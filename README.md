@@ -65,7 +65,7 @@ export default function Email() {
 npm install @react-email/tailwind -E
 
 ```
-# Add the component around your email body content.
+### Add the component around your email body content.
 ```bash
 import { Button } from '@react-email/components';
 import { Tailwind } from '@react-email/tailwind';
